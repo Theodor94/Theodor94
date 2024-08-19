@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 - **Business Development**: Exploring opportunities to drive growth and innovation.
 - **Technology and Engineering**: Passionate about integrating technology with business solutions.
 - **Digital Marketing**: Crafting strategies to boost brand visibility and engagement.
+- **Gadgets!**
 
 ## 🌱 I’m currently learning...
 - **Advanced Data Engineering**: Enhancing skills in data analytics and engineering techniques.
@@ -17,7 +18,7 @@ Welcome to my GitHub profile!
 - **Startup Initiatives**: Engaging with startups to drive growth and create impactful solutions.
 
 ## 📫 How to reach me...
-- **Email**: [theodorandrei.popescu@yahoo.com](mailto:theodorandrei.popescu@yahoo.com)
+- **Email**: [theodorandrei.popescu@yahoo.com](mailto:theodorandrei.popescu@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/theodorpopescu)
 
 ## 😄 Pronouns:
