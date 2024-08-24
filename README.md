@@ -22,11 +22,8 @@ Welcome to my GitHub profile!
 - **Email**: [theodorandrei.popescu@yahoo.com](mailto:theodorandrei.popescu@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/theodorpopescu)
 
-## 😄 Pronouns:
-- He/Him
-
 ## ⚡ Fun fact:
-- I have a knack for building custom firmware and tinkering with Arduino projects, blending creativity with technical skills!
+- I have a knack for building custom firmware, creating beautiful User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
 
 <!---
 Theodor94/Theodor94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
