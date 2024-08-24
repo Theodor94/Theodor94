@@ -6,11 +6,14 @@ Welcome to my GitHub profile!
 - **Business Development**: Exploring opportunities to drive growth and innovation.
 - **Technology and Engineering**: Passionate about integrating technology with business solutions.
 - **Digital Marketing**: Crafting strategies to boost brand visibility and engagement.
+- **3D rendering**: Maya, 3ds Max, Blender
+- **Gaming!**
 - **Gadgets!**
 
 ## 🌱 I’m currently learning...
-- **Advanced Data Engineering**: Enhancing skills in data analytics and engineering techniques.
+- **Data Engineering**: Enhancing skills in data analytics and engineering techniques.
 - **Emerging Technologies**: Keeping up-to-date with trends in AI, IoT, and automation.
+- **Digital Marketing and Business Analytics**
 
 ## 💞️ I’m looking to collaborate on...
 - **UI/UX**: Collaborating on projects that LOOK GREAT!
