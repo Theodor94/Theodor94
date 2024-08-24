@@ -9,6 +9,7 @@ Welcome to my GitHub profile!
 - **3D rendering**: Maya, 3ds Max, Blender
 - **Gaming!**
 - **Gadgets!**
+- **Modding!**
 
 ## 🌱 I’m currently learning...
 - **Data Engineering**: Enhancing skills in data analytics and engineering techniques.
@@ -20,10 +21,6 @@ Welcome to my GitHub profile!
 - **Tech Projects**: Collaborating on projects that merge technology with business development.
 - **Open Source Contributions**: Contributing to open source projects that focus on innovation and technology.
 - **Startup Initiatives**: Engaging with startups to drive growth and create impactful solutions.
-
-## 📫 How to reach me...
-- **Email**: [theodorandrei.popescu@yahoo.com](mailto:theodorandrei.popescu@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/theodorpopescu)
 
 ## ⚡ Fun fact:
 - I have a knack for building custom firmware, creating beautiful User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
