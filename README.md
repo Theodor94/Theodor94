@@ -13,6 +13,7 @@ Welcome to my GitHub profile!
 - **Emerging Technologies**: Keeping up-to-date with trends in AI, IoT, and automation.
 
 ## 💞️ I’m looking to collaborate on...
+- **UI/UX**: Collaborating on projects that LOOK GREAT!
 - **Tech Projects**: Collaborating on projects that merge technology with business development.
 - **Open Source Contributions**: Contributing to open source projects that focus on innovation and technology.
 - **Startup Initiatives**: Engaging with startups to drive growth and create impactful solutions.
