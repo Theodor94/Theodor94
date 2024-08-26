@@ -1,6 +1,4 @@
-# Weary traveler, take a sit for a spell and take a look around.
-
-Welcome to your life, there's no turning back!
+# Weary traveler, take a sit for a spell and take a look around!
 
 ## I’m interested in...
 - **Business Development**: Exploring opportunities to drive growth and innovation.
