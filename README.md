@@ -13,7 +13,7 @@
 
 ## I’m currently learning...
 - **Data Engineering**: Enhancing skills in data analytics and engineering techniques.
-- **Emerging Technologies**: Keeping up-to-date with trends in AI, IoT, and automation.
+- **Emerging Technologies**: Keeping up-to-date with trends in Tech, AI, IoT, and automation.
 - **Digital Marketing and Business Analytics**
 - **Audio Sampling**
 
