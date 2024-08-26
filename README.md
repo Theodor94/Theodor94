@@ -1,8 +1,8 @@
-# Hi there, I'm Theodor! 👋
+# Weary traveler, take a sit for a spell and take a look around.
 
-Welcome to my GitHub profile!
+Welcome to your life, there's no turning back!
 
-## 👀 I’m interested in...
+## I’m interested in...
 - **Business Development**: Exploring opportunities to drive growth and innovation.
 - **Technology and Engineering**: Passionate about integrating technology with business solutions.
 - **Digital Marketing**: Crafting strategies to boost brand visibility and engagement.
@@ -11,13 +11,15 @@ Welcome to my GitHub profile!
 - **Gaming!**
 - **Gadgets!**
 - **Modding!**
+- **Music!**
 
-## 🌱 I’m currently learning...
+## I’m currently learning...
 - **Data Engineering**: Enhancing skills in data analytics and engineering techniques.
 - **Emerging Technologies**: Keeping up-to-date with trends in AI, IoT, and automation.
 - **Digital Marketing and Business Analytics**
+- **Audio Sampling**
 
-## 💞️ I’m looking to collaborate on...
+## I’m looking to collaborate on...
 - **UI/UX**: Collaborating on projects that LOOK GREAT!
 - **Tech Projects**: Collaborating on projects that merge technology with business development.
 - **Open Source Contributions**: Contributing to open source projects that focus on innovation and technology.
