@@ -23,8 +23,8 @@
 - **Open Source Contributions**: Contributing to open source projects that focus on innovation and technology.
 - **Startup Initiatives**: Engaging with startups to drive growth and create impactful solutions.
 
-## ⚡ Fun fact:
-- I have a knack for building custom firmware, creating functional and easy to use User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
+⚡ Fun fact:
+- I have a knack for building custom firmware, optimizing Windows installs to the extreme, creating functional, easy to use User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
 
 <!---
 Theodor94/Theodor94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
