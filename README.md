@@ -1,4 +1,4 @@
-# Weary traveler, take a sit for a spell and take a look around!
+# Weary traveler, take a seat for a spell and take a look around!
 
 ## I’m interested in...
 - **Business Development**: Exploring opportunities to drive growth and innovation.
