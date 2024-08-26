@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 - **Business Development**: Exploring opportunities to drive growth and innovation.
 - **Technology and Engineering**: Passionate about integrating technology with business solutions.
 - **Digital Marketing**: Crafting strategies to boost brand visibility and engagement.
+- **UI/UX Development**: Creating beautiful, easy to use interfaces for the masses.
 - **3D rendering**: Maya, 3ds Max, Blender
 - **Gaming!**
 - **Gadgets!**
@@ -23,7 +24,7 @@ Welcome to my GitHub profile!
 - **Startup Initiatives**: Engaging with startups to drive growth and create impactful solutions.
 
 ## ⚡ Fun fact:
-- I have a knack for building custom firmware, creating beautiful User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
+- I have a knack for building custom firmware, creating functional and easy to use User Interfaces and tinkering with Arduino projects, blending creativity with technical skills!
 
 <!---
 Theodor94/Theodor94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
