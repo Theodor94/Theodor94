@@ -1,17 +1,20 @@
 # Weary traveler, take a seat for a spell and take a look around!
 
 ## I’m interested in...
+
 - **Business Development**: Exploring opportunities to drive growth and innovation.
 - **Technology and Engineering**: Passionate about integrating technology with business solutions.
 - **Digital Marketing**: Crafting strategies to boost brand visibility and engagement.
 - **UI/UX Development**: Creating beautiful, easy to use interfaces for the masses.
 - **3D rendering**: Maya, 3ds Max, Blender
+- **Content Management**: Edit, publish and implement
 - **Gaming!**
 - **Gadgets!**
 - **Modding!**
 - **Music!**
 
 ## I’m currently learning...
+
 - **Data Engineering**: Enhancing skills in data analytics and engineering techniques.
 - **Emerging Technologies**: Keeping up-to-date with trends in Tech, AI, IoT, and automation.
 - **Digital Marketing and Business Analytics**
